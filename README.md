@@ -1,2 +1,0 @@
-# github-kofi
-Github Kofi
